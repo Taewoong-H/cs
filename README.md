@@ -9,8 +9,8 @@
 
 ## Front-end 지식
 
-### 전반적인 지식
+- 전반적인 지식
 
-- 브라우저의 렌더링 원리
+  - [브라우저의 렌더링 원리](https://github.com/Taewoong-H/cs/blob/master/front-end/knowledge/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EC%9B%90%EB%A6%AC.md)
 
-### Javascript
+- Javascript
