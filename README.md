@@ -6,15 +6,17 @@
 
 - Data Structure
 
-  - [Array and Linked List]()
+  - [Array and Linked List](https://github.com/Taewoong-H/cs/blob/master/DataStructure/%EB%B0%B0%EC%97%B4vs%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-  - [Stack과 Queue]()
+  - [Stack과 Queue](https://github.com/Taewoong-H/cs/blob/master/DataStructure/%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90.md)
 
 - Operating System
 
   - [Process vs Thread](https://github.com/Taewoong-H/cs/blob/main/operating%20system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
-  - [Scheduler]()
+  - [Scheduler](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
+
+  - [CPU 스케줄러]()
 
 - Algorithm
   - [선택정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
