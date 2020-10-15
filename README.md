@@ -16,7 +16,7 @@
 
   - [Scheduler](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
 
-  - [CPU 스케줄러]()
+  - [CPU 스케줄러](https://github.com/Taewoong-H/cs/blob/master/operating%20system/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
 
 - Algorithm
   - [선택정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
