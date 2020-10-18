@@ -12,14 +12,27 @@
 
 - Operating System
 
+  - [운영체제란?]()
+
   - [Process vs Thread](https://github.com/Taewoong-H/cs/blob/main/operating%20system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
   - [Scheduler](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
 
   - [CPU 스케줄러](https://github.com/Taewoong-H/cs/blob/master/operating%20system/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
 
+  - [인터럽트(Interrupt)]()
+
+  - [교착상태(DeadLock)](<https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C(Deadlock).md>)
+
+  - [동기와 비동기](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
+
 - Algorithm
+
   - [선택정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
+
+- Network
+
+  - [OSI 7계층]()
 
 ## Front-end 지식
 
