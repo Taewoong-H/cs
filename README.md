@@ -16,7 +16,7 @@
 
   - [Process vs Thread](https://github.com/Taewoong-H/cs/blob/main/operating%20system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
-  - [PCB 와 Context Switching]()
+  - [PCB 와 Context Switching](https://github.com/Taewoong-H/cs/blob/master/operating%20system/PCB%EC%99%80%20Context%20Switching.md)
 
   - [Scheduler](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
 
@@ -36,7 +36,7 @@
 
   - [OSI 7계층](https://github.com/Taewoong-H/cs/blob/master/network/OSI%207%EA%B3%84%EC%B8%B5.md)
 
-  - [TCP]()
+  - [TCP](https://github.com/Taewoong-H/cs/blob/master/network/TCP.md)
 
 ## Front-end 지식
 
