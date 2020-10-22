@@ -10,6 +10,10 @@
 
   - [Stack과 Queue](https://github.com/Taewoong-H/cs/blob/master/DataStructure/%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90.md)
 
+- Algorithm
+
+  - [선택정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
+
 - Operating System
 
   - [운영체제란?](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
@@ -28,9 +32,15 @@
 
   - [동기와 비동기](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 
-- Algorithm
+  - [동기화 문제](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EB%8F%99%EA%B8%B0%ED%99%94%EB%AC%B8%EC%A0%9C.md)
 
-  - [선택정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
+  - [페이징과 세그멘테이션]()
+
+- Database
+
+  - [데이터베이스 기본 용어]()
+
+  - [key]()
 
 - Network
 
