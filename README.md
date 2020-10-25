@@ -34,13 +34,19 @@
 
   - [동기화 문제](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%EB%8F%99%EA%B8%B0%ED%99%94%EB%AC%B8%EC%A0%9C.md)
 
-  - [페이징과 세그멘테이션]()
+  - [페이징과 세그멘테이션](https://github.com/Taewoong-H/cs/blob/master/operating%20system/%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98.md)
 
 - Database
 
-  - [데이터베이스 기본 용어]()
+  - [데이터베이스 기본 용어](https://github.com/Taewoong-H/cs/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%9A%A9%EC%96%B4.md)
 
-  - [key]()
+  - [key](https://github.com/Taewoong-H/cs/blob/master/Database/key.md)
+
+  - [SQL JOIN](https://github.com/Taewoong-H/cs/blob/master/Database/SQL-JOIN.md)
+
+  - [SQL Injection](https://github.com/Taewoong-H/cs/blob/master/Database/SQL-Injection.md)
+
+  - [SQL vs NoSQL](https://github.com/Taewoong-H/cs/blob/master/Database/SQL%20vs%20NoSQL.md)
 
 - Network
 
