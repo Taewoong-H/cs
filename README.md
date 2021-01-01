@@ -2,6 +2,10 @@
 
 면접 준비를 위한 cs지식 모음집
 
+## IT 기본 지식
+
+- []()
+
 ## Computer Science
 
 - Data Structure
@@ -13,6 +17,10 @@
 - Algorithm
 
   - [선택정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
+
+  - [거품정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EA%B1%B0%ED%92%88%EC%A0%95%EB%A0%AC.md)
+
+  - [삽입정렬](https://github.com/Taewoong-H/cs/blob/master/algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
 
 - Operating System
 
@@ -47,6 +55,8 @@
   - [SQL Injection](https://github.com/Taewoong-H/cs/blob/master/Database/SQL-Injection.md)
 
   - [SQL vs NoSQL](https://github.com/Taewoong-H/cs/blob/master/Database/SQL%20vs%20NoSQL.md)
+
+  - [Anomaly](<https://github.com/Taewoong-H/cs/blob/master/Database/%EC%9D%B4%EC%83%81(Anomaly).md>)
 
 - Network
 
